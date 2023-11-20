@@ -1,0 +1,47 @@
+{
+    "project_name": "MyProject",
+    "version": "1.0.0",
+    "project_id": "{DAF42A3D-C489-4304-90D8-61B31C3E164A}",
+    "origin": "The primary repo for MyProject goes here: i.e. http://www.mydomain.com",
+    "license": "What license MyProject uses goes here: i.e. https://opensource.org/licenses/Apache-2.0 Or https://opensource.org/licenses/MIT etc.",
+    "display_name": "MyProject",
+    "summary": "A short description of MyProject.",
+    "canonical_tags": [
+        "Project"
+    ],
+    "user_tags": [
+        "MyProject"
+    ],
+    "icon_path": "preview.png",
+    "engine": "o3de",
+    "external_subdirectories": [
+        "Gem"
+    ],
+    "restricted": "MyProject",
+    "gem_names": [
+        "AWSCore",
+        "Atom",
+        "AudioSystem",
+        "CameraFramework",
+        "DebugDraw",
+        "DiffuseProbeGrid",
+        "EMotionFX",
+        "EditorPythonBindings",
+        "GameState",
+        "ImGui",
+        "LandscapeCanvas",
+        "LyShine",
+        "MyProject",
+        "PhysX",
+        "PrefabBuilder",
+        "PrimitiveAssets",
+        "SaveData",
+        "ScriptCanvasPhysics",
+        "ScriptEvents",
+        "StartingPointInput",
+        "TextureAtlas",
+        "WarehouseAssets==1.0.0",
+        "WhiteBox"
+    ],
+    "engine_version": "2.2.0"
+}
